@@ -8,5 +8,5 @@ Gem::Specification.new do |s|
   s.files       = ["lib/hola.rb"]
   s.homepage    = "http://laboone.net"
   s.license     = "MIT"
-  s.add_dependency 'faraday', '<= 1.6.0'
+  s.add_dependency 'faraday', '<= 2.8.0'
 end
